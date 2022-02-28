@@ -14,3 +14,8 @@ body {
   box-sizing: inherit;
 }
 
+.site-wrap {
+  max-width: 700px;
+  margin: 70px auto;
+
+}
