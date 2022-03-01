@@ -29,3 +29,7 @@ body.fixed-nav .site-wrap {
   transform: scale(1);
 }
 
+header {
+  text-align: center;
+
+}
